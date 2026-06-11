@@ -153,9 +153,9 @@ If you use this code, please cite:
 
 Martín del Campo Flores, G. (2026)
 
-*What Is Gravity? From Emergent Mass to Thermodynamic-Geometric Dynamics in the DK-RD2 Framework.*
+*Falsifiable Predictions of the DK-RD2 Framework: Observational Tests Beyond ΛCDM.*
 
-DOI: 10.5281/zenodo.20078175
+DOI: 10.5281/zenodo.20637136
 
 and
 
