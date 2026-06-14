@@ -1,0 +1,9 @@
+# DK-RD2 evidence table
+# created: 2026-06-13T20:33:34-06:00
+# figure: 5
+# table_kind: STATS
+# repository: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias. Reproducible from public DK-RD2 code.
+# author: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias
+model,alpha_DK,rd_mpc,Omega_m_ref,sigma8_0,fsigma8_z0,fsigma8_z0p5,fsigma8_z1,fit_mode,fractional_delta_fsigma8_z0p5,fractional_delta_fsigma8_z1,fractional_delta_fsigma8_z2,max_abs_fractional_delta_fsigma8,mean_fractional_delta_fsigma8,double_count_check_max_error
+LambdaCDM growth reference,NaN,NaN,0.315,0.811,0.4290788536,0.4746972285,0.4314083373,LCDM_LINEAR_GROWTH_REFERENCE,NaN,NaN,NaN,NaN,NaN,NaN
+DK-RD2 background-only linear growth,0.2974437595,149.9869985,0.315,0.811,0.4303074425,0.4812417856,0.4387645218,DKRD2_BACKGROUND_ONLY_LINEAR_GROWTH_DIAGNOSTIC,0.01378680685,0.01705155932,0.01267469691,0.01706720005,0.01395252664,0

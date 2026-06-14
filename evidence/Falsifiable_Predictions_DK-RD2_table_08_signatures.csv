@@ -1,0 +1,16 @@
+# DK-RD2 evidence table
+# created: 2026-06-13T22:56:18-06:00
+# figure: 8
+# table_kind: FIG08_FALSIFICATION_ROADMAP
+# repository: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias. Reproducible from public DK-RD2 code.
+# author: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias
+# meta_alpha_DK_global: 0.29744375952721885
+# meta_rd_DK_global_Mpc: 149.98699850248804
+# meta_purpose: Summarize the observational tests that distinguish DK-RD2 from dark-sector mechanisms.
+observable,DK_RD2_prediction,Dark_sector_prediction,primary_DKRD2_figure,falsification_test
+"H(z), distances",Projected thermodynamic expansion response,"Expansion modified by Λ, w(z), or early-sector energy injection","Figures 01, 03, 04",Redshift-dependent expansion reconstruction
+w_eff(z),"Emergent diagnostic w(z), no fundamental dark-energy fluid",Physical evolving dark-energy equation of state,Figure 04,FRW reconstruction versus physical dark-energy dynamics
+fσ8(z),Small growth deviation from the same projected background,Growth altered by dark-sector dynamics or expansion changes,Figure 05,Independent structure-growth measurements
+Lensing geometry,Distance/lensing deviations correlated with effective coupling,Standard geometry plus dark-sector parameter shifts,"Figures 04, future lensing",Weak/strong lensing distance reconstruction
+Compact halos,Local μ_eff(r)=G_eff/G0 amplification,Dense dark-matter or SIDM halo structure,Figure 06,Compact-halo gravitational response
+H0 reconstruction,Thermodynamic projection between early and late regimes,Early-energy or dark-radiation solution,Figure 07,Correlation of H0 inference with thermodynamic regime

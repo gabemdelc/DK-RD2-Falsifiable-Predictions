@@ -1,0 +1,9 @@
+# DK-RD2 evidence table
+# created: 2026-06-13T20:22:23-06:00
+# figure: 4
+# table_kind: STATS
+# repository: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias. Reproducible from public DK-RD2 code.
+# author: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias
+model,alpha_DK,rd_mpc,Omega_m_ref,w_z_0p01,w_z_0p5,w_z_1,w_z_2,Omega_DE_z_0p01,Omega_DE_z_0p5,Omega_DE_z_1,Omega_DE_z_2,w_min,w_max,mean_delta_w_vs_minus1,N_finite,fit_mode,Omega_DE_min,Omega_DE_max
+ΛCDM reference,NaN,NaN,0.315,-1,-1,-1,-1,0.685,0.685,0.685,0.685,-1,-1,0,900,reference_constant,NaN,NaN
+DK-RD2 explicit diagnostic w(z),0.2974437595,149.9869985,0.315,-1.026426744,-1.092106582,-1.249864425,-3.067838317,0.6844680164,0.6433038342,0.5621062128,0.2285377477,-3.067838317,-1.025767855,-0.4497782682,900,diagnostic_LCDM_reference,0.2285377477,0.6849472786

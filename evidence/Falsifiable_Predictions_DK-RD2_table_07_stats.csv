@@ -1,0 +1,8 @@
+# DK-RD2 evidence table
+# created: 2026-06-13T22:52:26-06:00
+# figure: 7
+# table_kind: STATS
+# repository: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias. Reproducible from public DK-RD2 code.
+# author: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias
+model,alpha_DK,rd_mpc,H0_early_reference,H0_late_reference,f_H0_projection_fraction,H0_gap,H0_eff_z0,H0_eff_z0p5,H0_eff_z1,H0_eff_z2,H0_eff_z5,T0_over_T_z0,T0_over_T_z1,T0_over_T_z5,delta_G_eff_over_G0_z0,delta_G_eff_over_G0_z1,delta_G_eff_over_G0_z5,fit_mode
+DK-RD2 Hubble-tension projection diagnostic,0.2974437595,149.9869985,67.4,73,1,5.6,73,71.13333797,70.20000347,69.26666821,68.33333333,1,0.5000006197,0.1666666667,0.2974437595,0.1487220641,0.04957395992,HUBBLE_TENSION_THERMODYNAMIC_PROJECTION_DIAGNOSTIC

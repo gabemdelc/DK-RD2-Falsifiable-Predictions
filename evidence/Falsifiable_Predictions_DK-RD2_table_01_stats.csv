@@ -1,0 +1,10 @@
+# DK-RD2 evidence table
+# created: 2026-06-13T19:38:05-06:00
+# figure: 1
+# table_kind: STATS
+# repository: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias. Reproducible from public DK-RD2 code.
+# author: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias
+model,rd_mpc,alpha_DK,chi2_BAO,chi2_CC,chi2_total,N_BAO,N_CC,fit_mode
+ΛCDM reference-calibrated,147.09,NaN,19.13511866,0.01765750204,19.15277616,13,1,reference_rd_fixed
+ΛCDM BAO-calibrated,147.999316,NaN,14.15425671,0.01765750204,14.17191421,13,1,rd_free
+DK-RD2 global calibrated coupling,149.9869985,0.2974437595,10.27104527,0.006215571862,10.27726084,13,1,global_alpha_rd_from_main

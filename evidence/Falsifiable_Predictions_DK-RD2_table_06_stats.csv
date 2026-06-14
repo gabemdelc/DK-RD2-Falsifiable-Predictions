@@ -1,0 +1,10 @@
+# DK-RD2 evidence table
+# created: 2026-06-13T22:30:22-06:00
+# figure: 6
+# table_kind: STATS
+# repository: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias. Reproducible from public DK-RD2 code.
+# author: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias
+model,alpha_DK_global,rd_DK_global_Mpc,LCDM_standard_gravity_mu,A0_inner_excess,mu_inner_limit_Geff_over_G0,r_c_kpc,r_c_pc,transition_index_n,log10_space_mse,fit_radial_window_kpc,fit_mode
+DK-RD2 B1938+666 compact amplification,0.2974437595,149.9869985,1,68.82907743,69.82907743,0.003199965111,3.199965111,2.642046557,0.02643256216,0.003 to 0.12,separate_phenomenological_effective_G_amplification
+DK-RD2 Fornax 6 compact amplification,0.2974437595,149.9869985,1,19.90394232,20.90394232,0.007276419071,7.276419071,3.607231859,0.06432570217,0.003 to 0.08,separate_phenomenological_effective_G_amplification
+DK-RD2 GD-1 representative compact amplification,0.2974437595,149.9869985,1,1091.145349,1092.145349,0.00353658043,3.53658043,3.284581137,0.1075551658,0.003 to 0.12,separate_phenomenological_effective_G_amplification

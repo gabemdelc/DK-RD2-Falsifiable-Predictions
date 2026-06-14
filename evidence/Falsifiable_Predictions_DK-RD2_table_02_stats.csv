@@ -1,0 +1,12 @@
+# DK-RD2 evidence table
+# created: 2026-06-13T19:38:23-06:00
+# figure: 2
+# table_kind: STATS
+# repository: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias. Reproducible from public DK-RD2 code.
+# author: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias
+model,alpha_DK,rd_mpc,chi2_total,chi2_BAO,chi2_CC,delta_chi2,fit_mode,alpha_1sigma_low_delta_chi2_1,alpha_1sigma_high_delta_chi2_1,alpha_2sigma_low_delta_chi2_4,alpha_2sigma_high_delta_chi2_4,alpha_3sigma_low_delta_chi2_9,alpha_3sigma_high_delta_chi2_9,n_alpha_grid,rd_bounds_low_mpc,rd_bounds_high_mpc,cc_anchor_z,cc_anchor_H,cc_anchor_sigma_H
+DK-RD2 official global calibration,0.2974437595,149.9869985,10.27726084,10.27104527,0.006215571862,0,official_global_alpha_rd_from_main,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+DK-RD2 profiled grid minimum,0.296803653,150.0616863,10.28279928,NaN,NaN,0.005538441368,grid_profile_minimum,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+DK-RD2 diagnostic alpha=0,0,169.9999897,55816.39883,55815.65184,0.7469897959,55806.12157,alpha_fixed_0_rd_profiled,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+DK-RD2 diagnostic alpha=1,1,120.0000052,2525.765117,2521.260031,4.50508606,2515.487856,alpha_fixed_1_rd_profiled,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+DK-RD2 alpha_DK confidence profile,0.2974437595,149.9869985,10.27726084,10.27104527,0.006215571862,NaN,profiled_rd_for_each_alpha,0.2922374429,0.3059360731,0.2831050228,0.3150684932,0.2739726027,0.3242009132,220,120,170,0.12,71.33,4.2

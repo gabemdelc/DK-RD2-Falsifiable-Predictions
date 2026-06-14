@@ -1,0 +1,8 @@
+# DK-RD2 evidence table
+# created: 2026-06-13T19:52:38-06:00
+# figure: 3
+# table_kind: STATS
+# repository: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias. Reproducible from public DK-RD2 code.
+# author: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias
+model,alpha_DK,rd_mpc,T_min_K,T_max_K,z_min_projection,z_max_projection,beta_v_over_c,Gab_max_over_G0_at_T0_beta1,Gab_eff_over_G0_at_T0_beta1,delta_G_eff_over_G0_at_z0_beta1,delta_G_eff_over_G0_at_z3_beta1,projected_excess_fraction,thermal_projection_z0,thermal_projection_z3,fit_source,fit_mode
+DK-RD2 coupling structure and cosmological projection,0.2974437595,149.9869985,2.7255,100000000,0,3,1,2,1.29744376,0.2974437595,0.07436093988,0.2974437595,1,0.25,alpha_DK and r_d are obtained from the global BAO + CC calibration.,COUPLING_STRUCTURE_PLUS_COSMOLOGICAL_PROJECTION

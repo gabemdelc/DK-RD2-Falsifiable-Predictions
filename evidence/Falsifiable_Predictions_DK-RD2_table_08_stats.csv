@@ -1,0 +1,10 @@
+# DK-RD2 evidence table
+# created: 2026-06-13T22:56:18-06:00
+# figure: 8
+# table_kind: STATS
+# repository: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias. Reproducible from public DK-RD2 code.
+# author: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias
+model,primary_mechanism,requires_extra_dark_energy_sector,requires_dark_radiation_or_delta_neff,requires_phase_transition_template,requires_dark_sector_interactions,uses_global_alpha_DK,alpha_DK_global,rd_DK_global_Mpc,fit_mode,Geff_over_G0_z0,Geff_over_G0_z1,Geff_over_G0_z3,number_of_observable_tests,observable_tests
+Dark-sector schematic,Additional early dark-sector components,True,True,True,True,False,NaN,NaN,QUALITATIVE_MECHANISM_COMPARISON,NaN,NaN,NaN,NaN,NaN
+DK-RD2 projected H0eff(z),Thermodynamic evolution of effective gravitational coupling,False,False,False,False,True,0.2974437595,149.9869985,QUALITATIVE_MECHANISM_COMPARISON,1.29744376,1.14872188,1.07436094,NaN,NaN
+DK-RD2 falsification roadmap,Multi-observable discrimination,NaN,NaN,NaN,NaN,NaN,0.2974437595,149.9869985,FALSIFICATION_ROADMAP,NaN,NaN,NaN,6,"H(z), distances, w_eff(z), fσ8(z), Lensing geometry, Compact halos, H0 reconstruction"

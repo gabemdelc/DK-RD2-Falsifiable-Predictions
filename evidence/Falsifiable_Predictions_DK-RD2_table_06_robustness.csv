@@ -1,0 +1,21 @@
+# DK-RD2 evidence table
+# created: 2026-06-13T22:30:22-06:00
+# figure: 6
+# table_kind: FIG06_COMPACT_HALO_FIT_WINDOW_ROBUSTNESS
+# repository: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias. Reproducible from public DK-RD2 code.
+# author: ©2026 GabE=mc² — Gabriel Martín del Campo F. & Jazmín Olvera Zacarias
+# meta_purpose: Check sensitivity of compact-halo amplification parameters to the fitted radial window.
+# meta_mu_DK_form: mu_DK(r) = 1 + A0 / (1 + (r/r_c)^n)
+# meta_interpretation: If mu0 remains within the same order of magnitude across fitting windows, the compact amplification result is robust. Large order-of-magnitude changes would indicate parameter degeneracy or strong window dependence.
+# meta_alpha_DK_global: 0.29744375952721885
+# meta_rd_DK_global_Mpc: 149.98699850248804
+target,window_label,r_min_kpc,r_max_kpc,A0_inner_excess,mu0_inner_limit_Geff_over_G0,r_c_kpc,r_c_pc,transition_index_n,log10_space_mse,alpha_DK_global,rd_DK_global_Mpc
+B1938+666,fiducial,0.003,0.12,68.82907743,69.82907743,0.003199965111,3.199965111,2.642046557,0.02643256216,0.2974437595,149.9869985
+B1938+666,medium,0.004,0.1,19.90474343,20.90474343,0.006257148997,6.257148997,3.151176322,0.01900008239,0.2974437595,149.9869985
+B1938+666,inner_conservative,0.005,0.08,19.91066052,20.91066052,0.006009912642,6.009912642,2.979811612,0.01040298515,0.2974437595,149.9869985
+Fornax 6,fiducial,0.003,0.12,19.91528252,20.91528252,0.007298642469,7.298642469,3.643469595,0.1567561281,0.2974437595,149.9869985
+Fornax 6,medium,0.004,0.1,19.9090616,20.9090616,0.007160217686,7.160217686,3.533799827,0.1149842737,0.2974437595,149.9869985
+Fornax 6,inner_conservative,0.005,0.08,19.90368682,20.90368682,0.007050524345,7.050524345,3.44509257,0.07218365683,0.2974437595,149.9869985
+GD-1 representative,fiducial,0.003,0.12,1091.145349,1092.145349,0.00353658043,3.53658043,3.284581137,0.1075551658,0.2974437595,149.9869985
+GD-1 representative,medium,0.004,0.1,569.8965203,570.8965203,0.004521082435,4.521082435,3.372341753,0.07192730855,0.2974437595,149.9869985
+GD-1 representative,inner_conservative,0.005,0.08,301.5135281,302.5135281,0.005712352055,5.712352055,3.453048865,0.03722448852,0.2974437595,149.9869985

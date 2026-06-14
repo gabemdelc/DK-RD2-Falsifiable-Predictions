@@ -1,0 +1,10 @@
+# DK-RD2 Falsifiable Predictions Framework
+# Minimal Python dependencies required by:
+# - Falsifiable_ Predictions_DK-RD2.py
+# - DK_RD2_Core.py
+
+numpy>=1.26
+scipy>=1.13
+pandas>=2.2
+matplotlib>=3.9
+astropy>=6.1
